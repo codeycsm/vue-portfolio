@@ -38,8 +38,7 @@ export default {
           description:
             "Search google books api to find your favorite books and save them for later or buy.",
           technologies: [
-            "React.js",
-            "JSX",
+            "Vue.js",
             "HTML",
             "CSS",
             "Express.js",
@@ -47,8 +46,8 @@ export default {
             "MongoDB",
             "Axios",
           ],
-          link: "https://fierce-beyond-51008.herokuapp.com/",
-          repo: "https://github.com/codeycsm/bookSearch",
+          link: "https://book-search-example.herokuapp.com//",
+          repo: "",
         },
         {
           title: "Click Game",
