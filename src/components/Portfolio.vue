@@ -46,7 +46,7 @@ export default {
             "MongoDB",
             "Axios",
           ],
-          link: "https://book-search-example.herokuapp.com//",
+          link: "https://book-search-example.herokuapp.com/",
           repo: "",
         },
         {
