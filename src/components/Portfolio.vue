@@ -189,12 +189,12 @@ h1 {
 #projectsContainer {
   width: 95%;
   margin: 0 auto;
-  background-color: #90afc5;
   text-align: center;
   padding: 0.2em 0 0.2em 0;
 }
 .project {
-  background-color: #000;
+  background-color: #336b87;;
+  border: 1px solid 000;
   color: #fff;
   width: 95%;
   margin: 1em auto;
